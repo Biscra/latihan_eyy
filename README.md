@@ -1,2 +1,2 @@
 # latihan_eyy
-Ini adalah hasil dari praktek aplikasi pertama saya(Bicsra)
+Ini adalah hasil dari praktek aplikasi pertama saya(Biscra)
